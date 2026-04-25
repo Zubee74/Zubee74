@@ -21,23 +21,22 @@
 📂 Projects
 
 🔹 1. Morix Technologies - Digital Sinage System
-👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/Morix_Offline_Mode_USB_TestCases.xlsx)
+👉 [View Project]
+(https://github.com/Zubee74/Zubee74/blob/main/Morix_Offline_Mode_USB_TestCases.xlsx)
+
+🔹 2. Morix - Test Closure and Client Report
+👉 [View Project]
+(https://github.com/Zubee74/Zubee74/blob/main/MORIX_USB_TV_Feature_Documentation.docx)
 
 
-🔹 2. Automation Framework - Selenium + TestNG
-- Built data-driven framework
-- Achieved 85% test coverage
-- Reduced execution time by 30%
+🔹 3. AIG API testing - 
+👉 [View Project]
+(https://github.com/Zubee74/Zubee74/blob/main/API%20testing_Filters.xlsx)
+(https://github.com/Zubee74/Zubee74/blob/main/Natural_Colored_Gemstone_API_Testing%20(1).xlsx)
 
-👉 [View Project](#)
-
-
-🔹 3. API Automation - Rest Assured
-- Automated REST APIs
-- JSON validation & response assertions
-- Integrated with TestNG
-
-👉 [View Project](#)
+🔹 4. Skoda Volswagan - MPR Test Cases -
+👉 [View Project]
+(https://github.com/Zubee74/Zubee74/blob/main/MPR%20Test_Cases_Updated.xlsx)
 
 
 📊 Achievements
