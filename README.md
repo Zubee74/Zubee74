@@ -20,13 +20,8 @@
 
 📂 Projects
 
-🔹 1. Jewelry Marketplace Testing (MK Ghare)
-- Performed end-to-end testing for B2B marketplace
-- Created test cases, RTM, regression suite
-- API validation using Postman
-- Database testing using SQL  
-
-👉 [View Project](#)
+🔹 1. Morix Technologies - Digital Sinage System
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/Morix_Offline_Mode_USB_TestCases.xlsx)
 
 
 🔹 2. Automation Framework - Selenium + TestNG
