@@ -32,7 +32,7 @@
 
 🔹 3. AIG API testing - 
 👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/API%20testing_Filters.xlsx)
-(https://github.com/Zubee74/Zubee74/blob/main/Natural_Colored_Gemstone_API_Testing%20(1).xlsx)
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/Natural_Colored_Gemstone_API_Testing%20(1).xlsx)
 
 🔹 5. Skoda Volswagan - MPR Test Cases -
 👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/MPR%20Test_Cases_Updated.xlsx)
