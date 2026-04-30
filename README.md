@@ -21,22 +21,21 @@
 📂 Projects
 
 🔹 1. Morix Technologies - Digital Sinage System
-👉 [View Project]
-(https://github.com/Zubee74/Zubee74/blob/main/Morix_Offline_Mode_USB_TestCases.xlsx)
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/Morix_Offline_Mode_USB_TestCases.xlsx)
 
-🔹 2. Morix - Test Closure and Client Report
-👉 [View Project]
-(https://github.com/Zubee74/Zubee74/blob/main/MORIX_USB_TV_Feature_Documentation.docx)
+🔹 2. Project Documentation for Morix Technology - Digital Sinage System
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/MORIX_Client_Doc_v8%20(1).docx)
+
+🔹 3. Morix - Test Closure and Client Report
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/MORIX_USB_TV_Feature_Documentation.docx)
 
 
 🔹 3. AIG API testing - 
-👉 [View Project]
-(https://github.com/Zubee74/Zubee74/blob/main/API%20testing_Filters.xlsx)
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/API%20testing_Filters.xlsx)
 (https://github.com/Zubee74/Zubee74/blob/main/Natural_Colored_Gemstone_API_Testing%20(1).xlsx)
 
-🔹 4. Skoda Volswagan - MPR Test Cases -
-👉 [View Project]
-(https://github.com/Zubee74/Zubee74/blob/main/MPR%20Test_Cases_Updated.xlsx)
+🔹 5. Skoda Volswagan - MPR Test Cases -
+👉 [View Project](https://github.com/Zubee74/Zubee74/blob/main/MPR%20Test_Cases_Updated.xlsx)
 
 
 📊 Achievements
